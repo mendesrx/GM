@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+
+<html>
+<head>
+<style>
+body {
+  font-size: 22px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #169edd;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #1447a7;
+}
+</style>
+</head>
+<body>
+
+
+
+<ul>
+  <li><a  href="#about">ABOUT</a></li>
+  <li><a  href="#information">INFORMATION</a></li>
+  <li><a  href="#education">EDUCATION</a></li>
+  <li><a  href="#socials">SOCIALS</a></li>
+  <li><a  href="#suggestions">SUGGESTIONS</a></li>
+</ul>
+
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+    <style>
+    body {
+      font-family: "Audiowide", sans-serif;
+    }
+    </style>
+    </head>
+    <body>
+
+<body background="https://img.freepik.com/vetores-premium/fundo-branco-com-circuito-de-tecnologia-azul_583398-369.jpg?w=2000"></body>
+   
+
+   
+    <h1 styles="color:red"; style="text-align:center;">Gonçalo Mendes</h1>~
+    <p style="text-align:center;"><img src="C:\Users\gonca\Downloads\me (1).png" alt="Logo"></p>
+    
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <h2 href="#abou">About:</h2>
+    
+    <p>Hi! My name is <ins>Gonçalo Ferreira Mendes</ins> and study Science and Technology In Escola Secundária Francisco de Holanda.</p>
+    
+    <p>I love coding and my goal with this project is to improve my skills and learn more and more always! Apart from that, I also like mechanics and music. </p>
+  
+    
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <h2 href="#information">Basic Information:</h2>
+
+        <p><b>Age:</b> 16</p>
+        <p><b>Adress:</b> Guimarães, Portugal</p>
+        <p><b>Contact Email:</b> goncalom1709@gmail.com</p>
+        <p><b>Languages:</b> Portuguese and English</p>
+        
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+       
+      <h2 href="#education">Education:</h2>
+
+      <style>
+        .city {
+          background-color: rgb(255, 255, 255);
+          color: rgb(0, 0, 0);
+          border: 2px solid black;
+          margin: 20px;
+          padding: 20px;
+        }
+        </style>
+        </head>
+        <body>
+        
+        <div class="city">
+        <h3>Primary Education - 2012/2016</h3>
+        <p>EB1/J.I. Vermis / Moreira Cónegos</p>
+        </div> 
+        
+        <div class="city">
+        <h3>Lower and Upper Secondary Education - 2016 - 2021</h3>
+        <p>Escola Básica 2/3 Virginia Moura</p>
+        </div>
+        
+        <div class="city">
+        <h3>Short-cycle Tertiary Education - 2021-2024</S></h3>
+        <p>Escola Secundária Francisco de Holanda</p>
+        </div>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+<h2 href="#socials">Socials:</h2>
+
+<a href="https://www.instagram.com/gmendes016/" target="_blank"><img src="https://w7.pngwing.com/pngs/521/488/png-transparent-logo-computer-icons-instagram-logo-miscellaneous-text-logo.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<br>
+<a href="https://github.com/mendesrx/" target="_blank"><img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<br>
+<a href="https://twitter.com/mndesc"  target="_blank"><img src="data:image/png;base64,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" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        
+      
+
+
+         
+<h2 href="#suggestions">Suggestions:</h2>
+
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  input[type=submit] {
+    background-color: #169edd;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #169edd;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: png;
+    padding: 20px;
+  }
+  
+  .col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+  .col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+  }
+  
+  /* Clear floats after the columns */
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+  </style>
+  </head>
+  <body>
+  
+  
+  <p>If you have some suggestion of what I can improve or learn, put it there :) </p>
+  
+  <div class="container">
+    <form action="/action_page.php">
+    <div class="row">
+      <div class="col-25">
+        <label for="fname">First Name</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="fname" name="firstname" placeholder="...">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="lname">Last Name</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="lname" name="lastname" placeholder="...">
+      </div>
+    </div>
+    <div class="row">
+     
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="subject">Suggestion</label>
+      </div>
+      <div class="col-75">
+        <textarea id="subject" name="subject" placeholder="Suggest something.." style="height:200px"></textarea>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <input type="submit" value="Submit">
+    </div>
+    </form>
+  </div>
+    
+  </body>
+  </html>
